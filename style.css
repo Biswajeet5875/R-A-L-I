@@ -68,5 +68,6 @@ span {
   text-shadow: none;
 }
 #encodedOutput, #decodedOutput{
-width : 4rem;
+border : 2px solid orange;
+width :100%;
 overflow: hidden;
