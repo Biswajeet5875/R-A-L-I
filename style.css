@@ -67,7 +67,3 @@ span {
   font-size: 2.75rem;
   text-shadow: none;
 }
-#encodedOutput, #decodedOutput{
-border : 2px solid orange;
-width :100%;
-}
