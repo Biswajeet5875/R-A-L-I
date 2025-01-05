@@ -69,3 +69,4 @@ span {
 }
 #encodedOutput, #decodedOutput{
 width : 4rem;
+overflow: hidden;
